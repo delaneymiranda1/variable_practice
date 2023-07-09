@@ -13,3 +13,7 @@ car_payment = 381.57
 # Variables assigned to Booleans
 rent_paid = true
 car_payment_paid = false
+
+# String variables reassigned
+user_name = "johndoe123"
+email = "johndoe123@email.com"

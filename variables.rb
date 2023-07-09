@@ -6,3 +6,8 @@ email "johndoe1@email.com"
 age = 35
 weight = 185
 
+# Variables assigned to Floats
+
+rent = 766.25
+car_payment = 381.57
+
